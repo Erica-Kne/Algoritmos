@@ -1,0 +1,1 @@
+poderíamos criar 8 variáveis, 1 para informar a questão, 5 para solicitar que  seja informada as possíveis alternativas para a questão. Após, com a 7ª pedir para o usuário digitar a resposta da questão. Com a 8ª variável, solicitaríamos no início que fosse informado a resposta correta e depois imprimiríamos a 7 e 8 variável para mostrar as duas respostas
